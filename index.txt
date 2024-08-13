@@ -1,2 +1,3 @@
 These is the index file of First Repository of GIT
 This is the second line of the git index page
+This is the third line of the git index file
